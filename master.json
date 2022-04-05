@@ -12,5 +12,19 @@
       "type": "transformation",
       "code": "pii_encrypting/pii_encrypting.js",
       "ui_config" : "pii_encrypting/ui_config.json"
+  },
+  {
+      "name": "Visitor Example",
+      "description": "This is just an example, it doesnt really do anything",
+      "type": "visitor",
+      "code": "visitor_example/visitor_example.js",
+      "ui_config" : "visitor_example/ui_config.json"
+  },
+  {
+      "name": "Event Example",
+      "description": "This is just an example, it doesnt really do anything",
+      "type": "event",
+      "code": "event_example/event_example.js",
+      "ui_config" : "event_example/ui_config.json"
   }
 ]
