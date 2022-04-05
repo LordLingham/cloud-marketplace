@@ -4,7 +4,7 @@
                 "id" : "att_test",
                 "display_name" : "Attribute Test",
                 "description" : "Test field for an attribute",
-                "type" : "attribute",
+                "type" : "attribute"
             },
             {
                 "id" : "att_list",
