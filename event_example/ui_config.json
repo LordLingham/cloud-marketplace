@@ -13,6 +13,13 @@
                 "type" : "attributelist",
                 "size" : 5,
                 "multiple" : true
+            },
+            {
+                "id" : "key_pair",
+                "display_name" : "Key Pair",
+                "description" : "Test field for a key pair object",
+                "type" : "keypair",
+                "size" : 5,
             }
         ]
     }
