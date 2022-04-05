@@ -19,7 +19,8 @@
                 "display_name" : "Key Pair",
                 "description" : "Test field for a key pair object",
                 "type" : "keypair",
-                "size" : 5
+                "size" : 5,
+                "allowAttributes": true
             }
         ]
     }
