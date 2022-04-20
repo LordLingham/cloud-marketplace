@@ -1,5 +1,12 @@
 [
   {
+      "name": "Everything (Testing)",
+      "description": "Test function to test all field types",
+      "type": "transformation",
+      "code": "everything/everything.js",
+      "ui_config" : "everything/ui_config.json"
+  },
+  {
       "name": "PII Hashing",
       "description": "Hashes specified PII data before event enrichments",
       "type": "transformation",
