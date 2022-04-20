@@ -10,7 +10,8 @@
                 "id" : "keypair_test",
                 "display_name" : "KVP Test",
                 "description" : "Test field for a keypair attribute",
-                "type" : "keypair"
+                "type" : "keypair",
+                "allowAttributes": true
             },
             {
                 "id" : "text_test",
