@@ -1,6 +1,6 @@
 [
   {
-      "name": "Everything (Testing)",
+      "name": "Everything - Testing",
       "description": "Test function to test all field types",
       "type": "transformation",
       "code": "everything/everything.js",
