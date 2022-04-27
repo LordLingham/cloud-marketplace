@@ -3,9 +3,6 @@ transform((event) => {
   //bool
   const bool_test = {{bool_test}};
 
-  // userlist
-  const userlist = {{userlist_test}};
-
   // keypair
   const keypair = {{keypair_test}}
 
@@ -22,7 +19,7 @@ transform((event) => {
   const list = {{list_test}}
 
   // attribute
-  const = attribute = {{att_test}}
+  const attribute = {{att_test}}
 
   // attribute list
   const attribute_list = {{att_list}}
