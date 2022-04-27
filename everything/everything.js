@@ -27,4 +27,4 @@ transform((event) => {
   // attribute list
   const attribute_list = {{att_list}}
 
-}
+})
